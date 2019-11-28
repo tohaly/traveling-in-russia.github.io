@@ -14,5 +14,5 @@
 ## Планы по развитию
 В планах реализовать переключения языков с русского на английский и наоборот.
 
-      *Проект можно открыть по ссылке*  
-      https://tohaly.github.io/tohaly.traveling-in-russia.github.io/
+  *Проект можно открыть по ссылке*  
+   https://tohaly.github.io/tohaly.traveling-in-russia.github.io/
