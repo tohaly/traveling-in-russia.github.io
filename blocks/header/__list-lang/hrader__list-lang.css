@@ -1,0 +1,8 @@
+.header__list-lang{
+    width: 100%;
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    align-self: flex-start;
+    justify-content: flex-end;
+}

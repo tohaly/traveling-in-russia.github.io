@@ -1,0 +1,12 @@
+@media screen and (max-width: 768px){
+    .content-title{
+        font-size: 2.6rem;
+        max-width: 450px;
+    }
+}
+
+@media screen and (max-width:425px){
+    .content-title{
+        font-size: 2rem;
+    }
+}

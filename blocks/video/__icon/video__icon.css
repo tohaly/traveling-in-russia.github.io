@@ -1,0 +1,9 @@
+.video__icon{
+    position: absolute;
+    top: 9%;
+    left: 5%;
+    width: 41px;
+    height: 41px;
+    background-image: url(./video__icon.png);
+    z-index: 3;
+}

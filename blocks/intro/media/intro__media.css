@@ -1,0 +1,35 @@
+@media screen and (max-width:1024px){
+    .intro{
+        padding: 0 48px 0 48px;
+    }
+}
+
+@media screen and (max-width:768px){
+    .intro{
+        padding: 0 24px 0 24px;
+    }
+
+    .contetnt-row__qoute{
+        font-size: 1rem;
+    }
+
+    .intro-counter{
+        font-size: 0.7rem;
+    }
+}
+
+
+@media screen and (max-width: 425px){
+    .intro{
+        padding: 0 16px 0 16px;
+        margin-top: 64px;
+    }
+
+    .content-row{
+        margin-top: 32px;
+    }
+
+    .intro-counter{
+        margin-top: 32px;
+    }
+}

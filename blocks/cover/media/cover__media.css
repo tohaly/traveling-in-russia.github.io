@@ -1,0 +1,48 @@
+@media screen and (max-width:1280px){
+
+}
+
+@media screen and (max-width:1024px){
+    .cover{
+        padding:  0;
+    }
+
+    .cover__link{
+        padding-top: 65%;
+    }
+}
+
+@media screen and (max-width:768px){
+    .cover__text{
+        width: 50%;
+        bottom: 8%;
+        left: calc((100% - 50%)/2);
+    }
+}
+
+@media screen and (max-width:650px){
+    .cover__title{
+        font-size: 2rem;
+        width: 50%;
+        left: 25%;
+    }
+}
+
+@media screen and (max-width:425px){
+    .cover{
+        margin-top: 48px;
+    }
+
+    .cover__title{
+        top: 20%;
+        width: 80%;
+        left: 10%;
+    }
+
+    .cover__text{
+        font-size: 0.9rem;
+        width: 86%;
+        left: 7%;
+        bottom: 10%;
+    }
+}

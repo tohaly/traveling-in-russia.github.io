@@ -1,0 +1,8 @@
+@import url(./__quote/contetnt-row__qoute.css);
+@import url(./__caption/content-row__caption.css);
+
+.content-row{
+    max-width: 984px;;
+    display: flex;
+    margin: 48px 0 0;
+}

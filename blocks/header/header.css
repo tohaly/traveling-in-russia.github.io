@@ -1,0 +1,17 @@
+@import url(./__logo/header__logo.css);
+@import url(./__list-lang/hrader__list-lang.css);
+@import url(./__list-lang-item/header__list-lang-item.css);
+@import url(./__lang/header__lang.css);
+@import url(./__lang/_selected/header__lang_selected.css);
+
+.header{
+    max-width: 1184px;
+    min-width: 280px;
+    margin: 0 auto;
+    padding: 30px 48px 0 48px;
+    display: flex;
+    position: relative;
+    display: flex;
+}
+
+

@@ -1,0 +1,20 @@
+@media screen and (max-width:768px){
+    .header{
+        padding: 30px 24px 0 24px;
+    }
+}
+
+@media screen and (max-width:425px){
+    .header{
+        padding: 16px 16px 0 16px;
+    }
+
+    .header__lang{
+        font-size: 1.1rem;
+    }
+
+    .header__logo {
+        width: 142px;
+        height: 42px;
+    }
+}

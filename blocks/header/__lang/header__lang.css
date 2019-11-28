@@ -1,0 +1,19 @@
+.header__lang{
+    line-height: 1.1;
+    font-size: 1.4rem;
+    font-weight: normal;
+    color: #fff;
+    transition: opacity 0.4s;
+}
+
+.header__lang:link{
+    text-decoration: none;
+}
+
+.header__lang:visited{
+    text-decoration: none;
+}
+
+.header__lang:hover{
+    opacity: 0.7;
+}

@@ -1,0 +1,12 @@
+@import url(./__item/intro-counter__item.css);
+
+.intro-counter{
+    color: #fff;
+    font-size: 0.8rem;
+    line-height: 1.5;
+    font-style: normal;
+    font-weight: normal;
+    margin: 24px 0 0;
+    padding: 0;
+    list-style-type: none;
+}

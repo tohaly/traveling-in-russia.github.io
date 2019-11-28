@@ -1,0 +1,5 @@
+.place__content{
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+}

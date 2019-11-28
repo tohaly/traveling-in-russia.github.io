@@ -1,0 +1,10 @@
+@import url(./__title/intro__title.css);
+@import url(./__subtitle/intro__subtitle.css);
+@import url(./content-row/content-row.css);
+@import url(./__span-accent/intro__span-accent.css);
+@import url(./intro-counter/intro-counter.css);
+
+.intro{
+    max-width: 984px;
+    margin: 80px auto 0;
+}

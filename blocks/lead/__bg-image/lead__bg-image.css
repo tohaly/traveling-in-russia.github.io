@@ -1,0 +1,10 @@
+.lead__bg-image{
+    width: 100%;
+    padding-top: 57%;
+    background-image: url(./lead__bg-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 78px 0 0;
+    position: relative;
+    z-index: 1;
+}

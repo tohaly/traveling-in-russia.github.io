@@ -1,0 +1,12 @@
+@import url(./__bg-image/lead__bg-image.css);
+@import url(./__track/lead__track.css);
+@import url(./__caption/lead__caption.css);
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+
+
+.lead{
+    width: 100%;
+    max-width: 984px;
+    margin: 48px auto;
+}

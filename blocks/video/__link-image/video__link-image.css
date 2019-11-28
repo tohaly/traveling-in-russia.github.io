@@ -1,0 +1,31 @@
+@import url(./_camchatka/video__link-image_camchatka.css);
+@import url(./_observatory/video__link-image_observatory.css);
+
+.video__link-image{
+    position: relative;
+    border-radius: 5px;
+    width: 100%;
+    padding-top: 55%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+.video__link-image::after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: background-color 1s;
+    z-index: 2;
+    padding: 0;
+    margin: 0;
+}
+
+.video__link-image:hover::after{
+    background-color: rgba(0, 0, 0, 0.3);
+}
+

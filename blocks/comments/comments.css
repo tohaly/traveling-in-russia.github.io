@@ -1,0 +1,7 @@
+@import url(./comment-block/comment-block.css);
+@import url(./__container/comments__container.css);
+
+.comments{
+    margin: 102px auto 0;
+    padding: 0 48px;
+}

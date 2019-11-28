@@ -1,0 +1,30 @@
+@media screen and (max-width:1024px){
+    .video{
+        padding: 0 24px;
+    }
+}
+
+@media screen and (max-width:768px){
+    .video{
+        padding: 0 16px;
+    }
+
+    .video__item-title{
+        font-size: 1.5rem;
+    }
+
+    .video__container{
+        margin-top: 56px;
+    }
+}
+
+@media screen and (max-width:425px){
+    .video{
+        margin-top: 64px;
+    }
+
+    .video__container{
+        margin-top: 24px;
+        grid-gap: 8px;
+    }
+}

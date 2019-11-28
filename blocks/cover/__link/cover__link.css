@@ -1,0 +1,31 @@
+.cover__link{
+    display: block;
+    max-width: 1184px;
+    max-height: 594px;
+    padding-top: 50%;
+    background-image: url(./cover__link-image.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+    text-align: center;
+    margin: 0 auto 0;
+    text-decoration: none;
+}
+
+.cover__link::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: background-color 1s;
+    z-index: 2;
+    margin: 0;
+}
+
+.cover__link:hover::before{
+        background-color: rgba(0, 0, 0, 0.2);
+}
