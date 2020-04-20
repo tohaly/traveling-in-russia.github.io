@@ -18,4 +18,4 @@
 
 
 *Страничку проекта можно открыть по следующей ссылке* 
-   https://tohaly.github.io/tohaly.traveling-in-russia.github.io/
+   https://tohaly.github.io/traveling-in-russia.github.io/
